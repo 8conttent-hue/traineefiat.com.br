@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "TRAINEEFIAT — Descubra sua Carreira na Fiat",
+    "description": "Participe do Programa Trainee Fiat Chrysler e construa um futuro brilhante na indústria automotiva."
+  },
+  "hero": {
+    "title": "Descubra sua Carreira na Fiat",
+    "subtitle": "Participe do Programa Trainee Fiat Chrysler e construa um futuro brilhante na indústria automotiva.",
+    "btnText": "Inscreva-se agora",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Por que Escolher a Fiat?",
+    "items": [
+      {
+        "icon": "🚗",
+        "title": "Tradição e Inovação",
+        "desc": "Com mais de 45 anos de história, a Fiat é sinônimo de qualidade e inovação no setor automobilístico."
+      },
+      {
+        "icon": "🏭",
+        "title": "Fábricas Modernas",
+        "desc": "Nossas unidades em Betim (MG) e Goiana (PE) são equipadas com tecnologia de ponta e comprometidas com a sustentabilidade."
+      },
+      {
+        "icon": "🌍",
+        "title": "Unidade Global",
+        "desc": "Faz parte do grupo Fiat S.p.A, que inclui marcas icônicas como Maserati, Ferrari e Alfa Romeo."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o Programa Trainee Fiat Chrysler",
+    "desc": "O Programa Trainee Fiat Chrysler foi criado para formar profissionais que desejam se destacar na indústria automotiva, focando em engenharia e inovação.",
+    "stats": [
+      {
+        "value": "45+",
+        "label": "Anos de História"
+      },
+      {
+        "value": "2",
+        "label": "Unidades de Produção"
+      },
+      {
+        "value": "10+",
+        "label": "Marcas do Grupo"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o TRAINEEFIAT"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "O Programa Trainee Fiat Chrysler foi criado para formar profissionais que desejam se destacar na indústria automotiva, focando em engenharia e inovação."
+  },
+  "content": "A Fiat Automóveis é parte de um grupo renomado, oferecendo oportunidades únicas para jovens talentos que desejam fazer parte de uma das maiores indústrias automotivas do Brasil.",
+  "mission": "Formar líderes que são apaixonados pela indústria automobilística e comprometidos com a inovação, qualidade e sustentabilidade.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

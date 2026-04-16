@@ -1,0 +1,53 @@
+{
+  "name": "TRAINEEFIAT",
+  "slug": "traineefiat.com.br",
+  "description": "O grupo Fiat A Fiat Automóveis faz parte da Fiat S.p.A, juntamente com outras grande marcas: Lancia, Alfa Romeo, Abarth, Maserati, Ferrari, Chrysler, Jeep, Dodge, SRT, Mopar e… Ram. Fundada Fiat automóveis A fábrica da Fiat Automóveis foi inaugurada em 9 de julho de 1976, em Betim (MG), produzindo o modelo Fiat 147. Está instalada em terreno PASSO A PASSO DA PRODUÇÃO Cada produto Fiat traz consigo a responsabilidade de representar uma das maiores indústrias do país. Uma responsabilidade que está em cada detalhe do que a O PROGRAMA O Programa Trainee Fiat Chysler 2015 tem o objetivo de identificar e desenvolver engenheiros com interesse em atuação na área industrial, que sejam movidos pela paixão e interessados na construção de uma sólida carreira na Fiat Chrysler, unidade de Betim em Minas Gerais ou na unidade de Goiana, no estado de Pernambuco. ETAPAS DE SELEÇÃO A convocação para todas as etapas será realizada por meio do e-mail fornecido pelo candidato no momento da inscrição. Consulte-o sempre e esteja atualizado quanto ao processo seletivo. ETAPA 1 Inscrição 25 de agosto a 29 de setembro ETAPA 2 Testes online ETAPA 3 Check up de competências ETAPA 4 Avaliação de aderência à organização ETAPA 5 Assessment Center e entrevista com os gestores ETAPA 6 Etapas admissionais Importante",
+  "url": "https://traineefiat.com.br",
+  "niche": "Automotivo",
+  "keywords": "O grupo Fiat A Fiat Automoveis faz parte da Fiat S p",
+  "email": "contato@traineefiat.com.br",
+  "palette": "forest",
+  "colors": {
+    "primary": "#16a34a",
+    "accent": "#14532d",
+    "dark": "#052e16"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-E",
+    "hero": "Hero-G",
+    "features": "Features-H",
+    "about": "About-E",
+    "posts": "Posts-C",
+    "footer": "Footer-B",
+    "sobre": "Sobre-G",
+    "contato": "Contato-E"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
